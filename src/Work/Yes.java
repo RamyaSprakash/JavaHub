@@ -6,6 +6,8 @@ public class Yes {
 		// TODO Auto-generated method stub
 System.out.println("heloo");
 System.out.println("Bye");
+
+System.out.println("welcome home");
 	}
 
 }
